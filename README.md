@@ -17,4 +17,4 @@ and region-wise sales performance.
 potentially raising revenue by at least 7% in the next quarter. 
 """
 ## Screenshort of dashboard
- https://github.com/Amankumar315/sales-insight/blob/main/dashboard_screenshot.png
+ ![Dashboard Preview](https://github.com/Amankumar315/sales-insight/blob/main/dashboard_screenshot.png)
